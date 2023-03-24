@@ -2,9 +2,14 @@
 .gradle
 /local.properties
 /.idea/workspace.xml
-/.idea/libraries
 .DS_Store
-/build
-/captures
 .externalNativeBuild
 /.idea/jarRepositories.xml
+/.idea/caches/
+/.idea/libraries/
+/.idea/modules.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+/build/
+/captures/
+.cxx
